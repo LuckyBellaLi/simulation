@@ -43,49 +43,11 @@ Below is the BibTex for citing this snapshot of the respoitory.
 
 This repository contains code for the paper, "Monte Carlo Methods for Economic Capital," which has been accepted for publication in the INFORMS Journal on Computing.
 
-This repository is divided into two folders. The folder PCRM contains the code for portfolioi credit risk model in the paper. The other folder contains code for i.i.d. model.
+This repository is divided into two folders. The folder "PCRM" contains the code for portfolioi credit risk model in the paper, which are written in python. People can use any python complier (e.g., spyder) to directly run the code. The other folder "IDD" contains code for i.i.d. model, which are written in matlab. People can use matlab software to directly run the code. 
 
-PCRM codes are written in python, and i.i.d. model codes are written in matlab.
-
-## Results
-
-Figure 1 in the paper shows the results of the multiplication test with different
-values of K using `gcc` 7.5 on an Ubuntu Linux box.
-
-![Figure 1](results/mult-test.png)
-
-Figure 2 in the paper shows the results of the sum test with different
-values of K using `gcc` 7.5 on an Ubuntu Linux box.
-
-![Figure 1](results/sum-test.png)
-
-## Replicating
-
-To replicate the results in [Figure 1](results/mult-test), do either
-
-```
-make mult-test
-```
-or
-```
-python test.py mult
-```
-To replicate the results in [Figure 2](results/sum-test), do either
-
-```
-make sum-test
-```
-or
-```
-python test.py sum
-```
 
 ## Ongoing Development
 
 This code is being developed on an on-going basis at the author's
 [Github site](https://github.com/tkralphs/JoCTemplate).
 
-## Support
-
-For support in using this software, submit an
-[issue](https://github.com/tkralphs/JoCTemplate/issues/new).
