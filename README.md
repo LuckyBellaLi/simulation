@@ -13,7 +13,7 @@ The snapshot is based on
 in the development repository. 
 
 **Important: This code is being developed on an on-going basis at 
-[Github site](https://github.com/LuckyBellaLi/simulation.git).. Please go there if you would like to
+[Github site](https://github.com/LuckyBellaLi/simulation.git). Please go there if you would like to
 get a more recent version or would like support**
 
 ## Cite
