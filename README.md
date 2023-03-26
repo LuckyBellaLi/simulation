@@ -49,5 +49,5 @@ This repository is divided into two folders. The folder "PCRM" contains the code
 ## Ongoing Development
 
 This code is being developed on an on-going basis at the author's
-[Github site](https://github.com/tkralphs/JoCTemplate).
+[Github site](https://github.com/LuckyBellaLi/simulation.git).
 
