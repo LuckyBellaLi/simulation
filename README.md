@@ -41,7 +41,7 @@ Below is the BibTex for citing this snapshot of the respoitory.
 
 ## Description
 
-This repository contains code for the paper in the "src" folder, "Monte Carlo Methods for Economic Capital," which has been accepted for publication in the INFORMS Journal on Computing.
+This repository contains code for the paper in the "src" folder.
 
 This "src" folder further includes two folders. The folder "PCRM" contains the code for portfolioi credit risk model in the paper, which are written in python. People can use any python complier (e.g., spyder) to directly run the code. The other folder "IDD" contains code for i.i.d. model, which are written in matlab. People can use matlab software to directly run the code. 
 
