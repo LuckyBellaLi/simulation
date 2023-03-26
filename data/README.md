@@ -1,3 +1,3 @@
 # Data for replication
 
-Here is the data needed for replicating the experiments. 
+Here is the loading factors data "a_k" needed for replicating the PCRM experiments. 
