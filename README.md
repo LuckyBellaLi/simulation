@@ -28,18 +28,16 @@ Below is the BibTex for citing this snapshot of the respoitory.
 
 ```
 @article{CacheTest,
-  author =        {T. Ralphs},
+  author =        {L. Yajuan, N. Marvin, K. Zachary},
   publisher =     {INFORMS Journal on Computing},
-  title =         {{CacheTest}},
-  year =          {2020},
+  title =         {{Monte Carlo Methods for Economic Capital}},
+  year =          {2023},
   doi =           {10.1287/ijoc.2019.0000.cd},
-  url =           {https://github.com/INFORMSJoC/2019.0000},
+  url =           {https://github.com/INFORMSJoC/2021.0261.git},
 }  
 ```
 
-## Description
 
-The goal of this software is to demonstrate the effect of cache optimization.
 
 ## Building
 
