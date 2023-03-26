@@ -39,26 +39,13 @@ Below is the BibTex for citing this snapshot of the respoitory.
 
 
 
-## Building
+## Description
 
-In Linux, to build the version that multiplies all elements of a vector by a
-constant (used to obtain the results in [Figure 1](results/mult-test.png) in the
-paper), stepping K elements at a time, execute the following commands.
+This repository contains code for the paper, "Monte Carlo Methods for Economic Capital," which has been accepted for publication in the INFORMS Journal on Computing.
 
-```
-make mult
-```
+This repository is divided into two folders. The folder PCRM contains the code for portfolioi credit risk model in the paper. The other folder contains code for i.i.d. model.
 
-Alternatively, to build the version that sums the elements of a vector (used
-to obtain the results [Figure 2](results/sum-test.png) in the paper), stepping K
-elements at a time, do the following.
-
-```
-make clean
-make sum
-```
-
-Be sure to make clean before building a different version of the code.
+PCRM codes are written in python, and i.i.d. model codes are written in matlab.
 
 ## Results
 
